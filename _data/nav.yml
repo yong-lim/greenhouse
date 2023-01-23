@@ -4,11 +4,8 @@
 - href : "/about"
   name : "About"
 
-- href : "/blog"
-  name : "Blog"
-
-- href : "/team"
-  name : "Team"
+- href : "/tour"
+  name : "Tour"
 
 - href : "/contact"
   name : "Contact"
