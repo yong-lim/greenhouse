@@ -1,0 +1,15 @@
+- href : "/"
+  name : "Home"
+
+- href : "/about"
+  name : "About"
+
+- href : "/blog"
+  name : "Blog"
+
+- href : "/team"
+  name : "Team"
+
+- href : "/contact"
+  name : "Contact"
+

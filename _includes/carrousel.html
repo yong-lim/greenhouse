@@ -1,0 +1,41 @@
+<!-- Begin #carousel-section -->
+<section id="carousel-section" class="section-global-wrapper"> 
+    <div class="container-fluid-kamn">
+        <div class="row">
+            <div id="carousel-1" class="carousel slide" data-ride="carousel">
+
+                <!-- Indicators -->
+                <ol class="carousel-indicators visible-lg">
+                    <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-1" data-slide-to="1"></li>
+                    <li data-target="#carousel-1" data-slide-to="2"></li>
+                    <li data-target="#carousel-1" data-slide-to="3"></li>
+                </ol>
+    
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <!-- Begin Slide -->
+                    {% for carr in site.data.carrousel %}
+                    <div class="item {{ carr.active }}">
+                        <img src="{{ carr.slide }}" height="400" alt="{{ carr.title }}">
+                        <div class="carousel-caption">
+                            <h3 class="carousel-title hidden-xs">{{ carr.title }}</h3>
+                            <p class="carousel-body">{{ carr.body }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    <!-- End Slide -->
+                </div>
+    
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel-1" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                <a class="right carousel-control" href="#carousel-1" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End #carousel-section -->

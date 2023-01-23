@@ -1,0 +1,20 @@
+- title    : "Office title 1"
+  alt-text : "Image of first carousel"
+  slide    : "../assets/img/slider/1920x700/slide4.jpg"
+  body     : "RESPONSIVE \ MULTI PAGE"
+  active   : "active"
+
+- title    : "Office title 2"
+  alt-text : "Image of second carousel"
+  slide    : "../assets/img/slider/1920x700/slide01.jpg"
+  body     : "RESPONSIVE \ MULTI PAGE"
+
+- title    : "Office title 3"
+  alt-text : "Image of third carousel"
+  slide    : "../assets/img/slider/1920x700/slide2.jpg"
+  body     : "RESPONSIVE \ MULTI PAGE"
+
+- title    : "Office title 4"
+  alt-text : "Image of fourth carousel"
+  slide    : "../assets/img/slider/1920x700/slide7.jpg"
+  body     : "RESPONSIVE \ MULTI PAGE"

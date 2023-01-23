@@ -1,0 +1,31 @@
+- name   : "Larry"
+  title  : "Web Developer, Technext"
+  avatar : "../assets/img/team/member2.png"
+  block  : "blockquote-primary"
+
+- name   : "Curley"
+  title  : "Software Developer, Technext"
+  avatar : "../assets/img/team/member1.png"
+  block  : "blockquote-success"
+
+- name   : "Moe"
+  title  : "App Developer, Technext"
+  avatar : "../assets/img/team/member2.png"
+  block  : "blockquote-info"
+  break  : '</div> <div class="col-md-6">'
+
+- name   : "Jerry"
+  title  : "Android Developer, Technext"
+  avatar : "../assets/img/team/member3.png"
+  block  : "blockquote-warning"
+
+- name   : "George"
+  title  : "iOS Developer, Technext"
+  avatar : "../assets/img/team/member2.png"
+  block  : "blockquote-danger"
+
+- name   : "Elaine"
+  title  : "Web Developer, Technext"
+  avatar : "../assets/img/team/member1.png"
+  block  : "blockquote-primary"
+

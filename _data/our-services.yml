@@ -1,0 +1,24 @@
+- title : "Hiking"
+  body  : "Explore the wilderness of Mondulkuri with many hiking trails."
+  fa    : '<i class="fa-solid fa-person-hiking fa-5x"></i>'
+
+- title : "Mountains"
+  body  : "Climb or take in the breathtaking view of the 'sea of mountains'."
+  fa    : '<i class="fa-solid fa-mountain-sun fa-5x"></i>'
+
+- title : "Our Guesthouse"
+  body  : "Rest at our clean and beautiful and spacious guesthouse."
+  fa    : '<i class="fa-solid fa-house-chimney fa-5x"></i>'
+#   break : '</div> <div class="row services-row services-row-tail services-row-2">'
+
+# - title : "Windows"
+#   body  : "Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim."
+#   fa    : '<i class="fa-brands fa-windows fa-5x"></i>'
+
+# - title : "RETINA READY"
+#   body  : "Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim."
+#   fa    : '<i class="fa-solid fa-eye fa-5x"></i>'
+
+# - title : "Cubic"
+#   body  : "Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim."
+#   fa    : '<i class="fa-solid fa-cube fa-5x"></i>'
