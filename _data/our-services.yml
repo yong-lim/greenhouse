@@ -1,14 +1,18 @@
 - title : "Hiking"
   body  : "Explore the wilderness of Mondulkuri with many hiking trails."
   fa    : '<i class="fa-solid fa-person-hiking fa-5x"></i>'
+  link  : "tour"
 
 - title : "Mountains"
   body  : "Climb or take in the breathtaking view of the 'sea of mountains'."
   fa    : '<i class="fa-solid fa-mountain-sun fa-5x"></i>'
+  link  : "tour"
 
 - title : "Our Guesthouse"
   body  : "Rest at our clean and beautiful and spacious guesthouse."
   fa    : '<i class="fa-solid fa-house-chimney fa-5x"></i>'
+  link  : "contact"
+
 #   break : '</div> <div class="row services-row services-row-tail services-row-2">'
 
 # - title : "Windows"
