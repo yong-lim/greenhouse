@@ -4,8 +4,8 @@
 - href : "/about"
   name : "About"
 
-- href : "/tour"
-  name : "Tour"
+- href : "/tours"
+  name : "Tours"
 
 - href : "/contact"
   name : "Contact"

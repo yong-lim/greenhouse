@@ -1,6 +1,6 @@
 ---
 layout: default_style
-permalink: /tour
+permalink: /tours
 ---
 <!-- Main Container -->
 
@@ -12,7 +12,7 @@ permalink: /tour
       <div class="col-md-10">
         <h2 class="blog-title">Pick a tour that suits your adventure appetite! </h2>
         <br>
-        {% for tour in site.data.tour-packages %}
+        {% for tour in site.data.tours %}
         <div class="blockquote-box {{ tour.block }} animated wow fadeInRight">
           <h3 class="blog-title"> {{ tour.title }} </h3>
           <p> {{ tour.detail | markdownify }} </p>
